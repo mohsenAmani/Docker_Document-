@@ -2,7 +2,7 @@
 Document about Docker learning
  
 <p align="center">
- <img alt="Docker-Logo" src="image/docker.jpg">
+ <img alt="Docker-Logo" src="image/docker.png">
 </p>
 </br>
 <p dir=rtl>
