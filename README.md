@@ -79,6 +79,6 @@ Document about Docker learning
   </tr>
   <tr>
     <td><b>git help blame</br>git blame {اسم فایل} -L{شماره خط یا رنجی از خط ها}</b></td>
-    <td dir=rtl>برای دیدن توضیحات دستورات گیت</br>برای پیدا کردن آخرین شخصی که خط از فایل رو تغییر داده</td>
+    <td dir=rtl>برای پیدا کردن آخرین شخصی که خط از فایل رو تغییر داده</td>
   </tr>
   </table>
