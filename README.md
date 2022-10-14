@@ -45,7 +45,7 @@ Document about Docker learning
 
 </br>
 <h3 dir=rtl>
-  دستورات رایج در Git:
+  دستورات رایج در Docker:
 </h3>
 
 <table>
