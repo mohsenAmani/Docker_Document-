@@ -25,7 +25,7 @@ Document about Docker learning
 
 
 <h3 dir=rtl>
-  اصطلاحات رایج در Docker:
+  اصطلاحات رایج در docker:
 </h3>
 
 <table>
