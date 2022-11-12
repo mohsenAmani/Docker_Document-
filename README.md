@@ -6,16 +6,16 @@ Document about Docker learning
 </p>
 </br>
 <p dir=rtl>
-  docker info
-  docker run hello-world
-  docker images
- docker images -a
- docker images -q
- docker image ls
- docker run -it centos:latest
- docker run -it -d centos:latest /bin/bash
- docker run --name mynginx1 -p 80:80 -d nginx
- cd /var/lib/docker/
+  docker info </br>
+  docker run hello-world </br>
+  docker images </br>
+ docker images -a </br>
+ docker images -q </br>
+ docker image ls </br>
+ docker run -it centos:latest </br>
+ docker run -it -d centos:latest /bin/bash </br>
+ docker run --name mynginx1 -p 80:80 -d nginx </br>
+ cd /var/lib/docker/ </br>
  
  
  
