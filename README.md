@@ -7,7 +7,19 @@ Document about Docker learning
 </br>
 <p dir=rtl>
   docker info
-  
+  docker run hello-world
+  docker images
+ docker images -a
+ docker images -q
+ docker image ls
+ docker run -it centos:latest
+ docker run -it -d centos:latest /bin/bash
+ docker run --name mynginx1 -p 80:80 -d nginx
+ cd /var/lib/docker/
+ 
+ 
+ 
+ 
 </p>
 <hr>
 <p dir=rtl>
