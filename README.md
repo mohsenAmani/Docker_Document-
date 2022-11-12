@@ -6,7 +6,8 @@ Document about Docker learning
 </p>
 </br>
 <p dir=rtl>
-  تا یک یا دو سال پیش، استک Docker مجموعه‌ای از سه محصول متن باز بود - Elasticsearch ، Logstash و Kibana - که همگی توسط شرکت Elastic توسعه، مدیریت و نگهداری می‌شدند. </br>معرفی و اضافه شدن کامپوننت جدیدی به نام Beats، این پشته را به یک پروژه چهارپا تبدیل کرد و منجر به تغییر نام پشته بعنوان Dockerشد.
+  docker info
+  
 </p>
 <hr>
 <p dir=rtl>
