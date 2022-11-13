@@ -14,7 +14,18 @@ Document about Docker learning
  docker image ls </br>
  docker run -it centos:latest </br>
  docker run -it -d centos:latest /bin/bash </br>
- docker run --name mynginx1 -p 80:80 -d nginx </br>
+ docker ps -a </br>
+ docker ps -s </br>
+docker ps -q </br>
+docker ps -n=3 </br>
+docker rm {CONTAINER ID} | {CONTAINER NAME} </br>
+docker rm -f {CONTAINER ID} | {CONTAINER NAME} </br>
+docker rm -f $(docker ps -aq) </br>
+docker rm $(docker ps -a -q -f status=exited) </br>
+
+
+
+
  cd /var/lib/docker/ </br>
  
  
