@@ -22,6 +22,14 @@ docker rm {CONTAINER ID} | {CONTAINER NAME} </br>
 docker rm -f {CONTAINER ID} | {CONTAINER NAME} </br>
 docker rm -f $(docker ps -aq) </br>
 docker rm $(docker ps -a -q -f status=exited) </br>
+docker ps --format '{{.Names}}' </br>
+docker ps -a --format '{{.Names}}' -f status='exited' </br>
+docker ps -a -q -f status='exited' </br>
+docker ps -lq </br>
+docker rm -f $(docker ps -aq -n=5) </br>
+docker rm -f $(docker ps -aq -l) </br>
+ docker cp /opt/moh3n.txt 7d3ea77490a6:/home </br>
+
 
 
 
